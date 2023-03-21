@@ -33,6 +33,7 @@ public class AServlet implements Servlet {
 
     @Override
     public void destroy() {
-
+        System.out.println("AServlet destroy");
     }
+
 }

@@ -3,6 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javaweb.iml" filepath="$PROJECT_DIR$/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/requesttest/requesttest.iml" filepath="$PROJECT_DIR$/requesttest/requesttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet03/servlet03.iml" filepath="$PROJECT_DIR$/servlet03/servlet03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet04/servlet04.iml" filepath="$PROJECT_DIR$/servlet04/servlet04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet05/servlet05.iml" filepath="$PROJECT_DIR$/servlet05/servlet05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet06/servlet06.iml" filepath="$PROJECT_DIR$/servlet06/servlet06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet07/servlet07.iml" filepath="$PROJECT_DIR$/servlet07/servlet07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet08/servlet08.iml" filepath="$PROJECT_DIR$/servlet08/servlet08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet09/servlet09.iml" filepath="$PROJECT_DIR$/servlet09/servlet09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template/template.iml" filepath="$PROJECT_DIR$/template/template.iml" />
     </modules>
   </component>
 </project>

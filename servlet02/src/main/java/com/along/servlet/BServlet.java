@@ -33,6 +33,6 @@ public class BServlet implements Servlet {
 
     @Override
     public void destroy() {
-
+        System.out.println("BServlet destroy");
     }
 }

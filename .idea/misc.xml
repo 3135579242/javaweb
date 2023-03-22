@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/servlet01/pom.xml" />
         <option value="$PROJECT_DIR$/servlet02/pom.xml" />
+        <option value="$PROJECT_DIR$/oa1/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet10/pom.xml" />
       </list>
     </option>
   </component>

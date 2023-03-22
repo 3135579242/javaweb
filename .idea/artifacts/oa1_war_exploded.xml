@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="oa1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/oa1_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="oa1" />
+          <element id="directory" name="lib">
+            <element id="library" level="project" name="mysql-connector-j-8.0.32" />
+            <element id="library" level="project" name="jakarta.servlet-api-6.0.0" />
+          </element>
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="oa1/web/Web" />
+    </root>
+  </artifact>
+</component>

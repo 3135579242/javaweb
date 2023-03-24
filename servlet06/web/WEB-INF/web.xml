@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>helloservlet</servlet-name>
-        <servlet-class>com.along.servlet.HelloServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.HelloServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>helloservlet</servlet-name>
@@ -15,7 +15,7 @@
 
     <servlet>
         <servlet-name>loginServlet</servlet-name>
-        <servlet-class>com.along.servlet.LoginServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.LoginServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>loginServlet</servlet-name>

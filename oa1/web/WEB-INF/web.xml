@@ -3,7 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
          version="6.0">
-
+<!--
     <servlet>
         <servlet-name>deptList</servlet-name>
         <servlet-class>oa.web.action.DeptListServlet</servlet-class>
@@ -56,6 +56,6 @@
     <servlet-mapping>
         <servlet-name>deptUpdate</servlet-name>
         <url-pattern>/dept/update</url-pattern>
-    </servlet-mapping>
+    </servlet-mapping>-->
 
 </web-app>

@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>config</servlet-name>
-        <servlet-class>com.along.servlet.ConfigTestServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.ConfigTestServlet</servlet-class>
         <init-param>
             <param-name>test</param-name>
             <param-value>123456</param-value>
@@ -27,7 +27,7 @@
 
     <servlet>
         <servlet-name>config2</servlet-name>
-        <servlet-class>com.along.servlet.ConfigTestServlet2</servlet-class>
+        <servlet-class>com.alongw.servlet.ConfigTestServlet2</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>config2</servlet-name>

@@ -6,7 +6,7 @@
     
     <servlet>
         <servlet-name>request</servlet-name>
-        <servlet-class>com.along.servlet.RequestTestServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.RequestTestServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>request</servlet-name>
@@ -15,7 +15,7 @@
 
     <servlet>
         <servlet-name>a</servlet-name>
-        <servlet-class>com.along.servlet.AServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.AServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>a</servlet-name>
@@ -24,7 +24,7 @@
 
     <servlet>
         <servlet-name>b</servlet-name>
-        <servlet-class>com.along.servlet.BServet</servlet-class>
+        <servlet-class>com.alongw.servlet.BServet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>b</servlet-name>

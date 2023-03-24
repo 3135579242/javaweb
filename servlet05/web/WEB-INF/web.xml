@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>getServlet</servlet-name>
-        <servlet-class>com.along.servlet.GetServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.GetServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>getServlet</servlet-name>
@@ -15,7 +15,7 @@
 
     <servlet>
         <servlet-name>postServlet</servlet-name>
-        <servlet-class>com.along.servlet.PostServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.PostServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>postServlet</servlet-name>

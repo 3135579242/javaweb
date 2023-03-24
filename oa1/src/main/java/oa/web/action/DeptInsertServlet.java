@@ -43,9 +43,11 @@ public class DeptInsertServlet extends HttpServlet {
         }
 
         if (count == 1) {
-            req.getRequestDispatcher("/dept/list").forward(req, resp);
+            resp.sendRedirect(contextPath + "/dept/list");
+//            req.getRequestDispatcher("/dept/list").forward(req, resp);
         } else {
-            req.getRequestDispatcher("error.html").forward(req, resp);
+            resp.sendRedirect("/error.html");
+//            req.getRequestDispatcher("/error.html").forward(req, resp);
         }
 
 

@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>aservlet</servlet-name>
-        <servlet-class>com.along.servlet.AServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.AServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -16,7 +16,7 @@
 
     <servlet>
         <servlet-name>bservlet</servlet-name>
-        <servlet-class>com.along.servlet.BServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.BServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -26,7 +26,7 @@
 
     <servlet>
         <servlet-name>login</servlet-name>
-        <servlet-class>com.along.servlet.LoginServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.LoginServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -36,7 +36,7 @@
 
     <servlet>
         <servlet-name>vip</servlet-name>
-        <servlet-class>com.along.servlet.VipServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.VipServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -46,7 +46,7 @@
 
     <servlet>
         <servlet-name>userServlet</servlet-name>
-        <servlet-class>com.along.servlet.UserServlet</servlet-class>
+        <servlet-class>com.alongw.servlet.UserServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>

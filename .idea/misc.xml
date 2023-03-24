@@ -8,6 +8,20 @@
         <option value="$PROJECT_DIR$/servlet02/pom.xml" />
         <option value="$PROJECT_DIR$/oa1/pom.xml" />
         <option value="$PROJECT_DIR$/servlet10/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet11/pom.xml" />
+        <option value="$PROJECT_DIR$/oa2/pom.xml" />
+        <option value="$PROJECT_DIR$/jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/oa3/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet12/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet13/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet14/pom.xml" />
+        <option value="$PROJECT_DIR$/bank-mvc-001/pom.xml" />
+        <option value="$PROJECT_DIR$/bank-mvc-002/pom.xml" />
+        <option value="$PROJECT_DIR$/bank-mvc-003/pom.xml" />
+        <option value="$PROJECT_DIR$/threadlocal/pom.xml" />
+        <option value="$PROJECT_DIR$/bank-mvc-004/pom.xml" />
+        <option value="$PROJECT_DIR$/bank-mvc-005/pom.xml" />
+        <option value="$PROJECT_DIR$/bank-mvc-last/pom.xml" />
       </list>
     </option>
   </component>
